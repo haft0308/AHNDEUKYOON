@@ -14,9 +14,9 @@ public class Matrix5by5 {
 		{
 			for (j = 0; j< matrix[i].length; j++)
 			{
-				matrix[i][j] = (i+1)*(j+1);
+				k = matrix[i][j] = (i+1)*(j+1);
 				
-				System.out.print(matrix[i][j]+"\t");
+				System.out.print(k+"\t");
 				
 			}
 			
