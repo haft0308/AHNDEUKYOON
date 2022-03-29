@@ -4,7 +4,7 @@ public class Gugudan3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int[][] a = new int [8][9];
+		int[][] a = new int[8][9];
 				
 		for (int i = 0; i<9; i++)
 		{

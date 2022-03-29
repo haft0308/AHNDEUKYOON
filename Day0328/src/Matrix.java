@@ -7,7 +7,7 @@ public class Matrix {
 		// 가변배열
 		
 		int[][] matrix = new int[3][];
-		int i = 0, j=0, k=0;
+		int i = 0, j=0;
 		
 		matrix[0] = new int[4];
 		matrix[0][0] = 1;
